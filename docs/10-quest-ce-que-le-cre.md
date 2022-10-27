@@ -2,7 +2,7 @@
 
 Le `Centre de la réussite étudiante` (CRÉ) est un guichet unique où l’on retrouve tous les services offerts quant au soutien à l’apprentissage et à la vie universitaire.
 
-## 🎉 Soutien à la réussite étudiante
+## 🎉 Soutien à la réussite étudiante.
 
 🪀 Divers services de l’**UoF** oeuvrent à la réussite étudiante dans les activités d’enseignement et d’apprentissage, dans les programmes de formation ou dans l’expérience générale de toutes les étudiantes et de tous les étudiants.
 
