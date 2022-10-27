@@ -1,4 +1,4 @@
-# :parking: Moodle 
+# :snake: Moodle 
 
 ![Logo Moodle](/images/64px-Moodle-logo.svg.png "Logo Moodle")
 
