@@ -6,7 +6,7 @@
 
 Tu auras besoin de:
 
-## 1️⃣ Un navigateur de ton choix
+## 1️⃣ Un navigateur de ton choix:
 
 * Tu devras télécharger un navigateur ou utiliser celui déjà installé pour ton accès à Internet. 
 
