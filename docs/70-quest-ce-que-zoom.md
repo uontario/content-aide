@@ -70,5 +70,3 @@ Tu auras besoin de:
 * En explorant un peu, tu pourras héberger tes propres réunions,
 * Étant raisonnable, tu sauras ne pas dépasser les 45 minutes permises.
 * Tu pourras réinviter tes hôtes 👥 après cette durée fatidique.
-
-Zoom-7-etudiant-annonce.png
