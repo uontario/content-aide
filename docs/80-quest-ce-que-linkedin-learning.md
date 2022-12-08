@@ -33,7 +33,7 @@ Tu auras besoin de:
 
 ![etudiant confirme](/images/linkedin-learning/organisation.png)
 
-## 5️⃣ Affichage tu tableau de bord LinkedIn Learning
+## 5️⃣ Affichage du tableau de bord `LinkedIn Learning`
 
 * Tu devrais avoir accès à ton tableau de bord ✅
 * Sinon tu auras une erreur ❌
