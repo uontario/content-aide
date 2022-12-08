@@ -42,6 +42,6 @@ Tu auras besoin de:
 
 ![tableau de bord](/images/linkedin-learning/dashboard.png)
 
-## 6️⃣ Choiseis maintenant tes cours
+## 6️⃣ Choisis maintenant tes cours
 
 * Finalement, tu as été élue pour utiliser la plateforme `LinkedIn Learning`. 🎉
