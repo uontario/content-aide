@@ -1,6 +1,6 @@
 # 🎥 Que dire de LinkedIn Learning? 
 
-<img src=/images/linkedin-learning/logo.png width=630 height=382 > </img> 
+<img src=/images/linkedin-learning/logo.png width=157 height=95 > </img> 
 
 - [ ] LinkedIn est une application web d'où des cours dispensés par des experts portant sur de multiples sujets de formation en ligne pour toutes les étapes de ta carrière.
 - [ ] Tu y continueras à apprendre à ton rythme.
